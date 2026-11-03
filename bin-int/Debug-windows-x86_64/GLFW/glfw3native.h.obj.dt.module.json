@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\aayas\\Documents\\Projects\\sorcery-madness\\vendor\\GLFW\\bin-int\\Debug-windows-x86_64\\GLFW\\glfw3native.obj",
+            "outputs": [
+                "C:\\Users\\aayas\\Documents\\Projects\\sorcery-madness\\vendor\\GLFW\\bin-int\\Debug-windows-x86_64\\GLFW\\glfw3native.h.obj.dt.module.json",
+                "C:\\Users\\aayas\\Documents\\Projects\\sorcery-madness\\vendor\\GLFW\\bin-int\\Debug-windows-x86_64\\GLFW\\glfw3native.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
